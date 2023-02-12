@@ -1,0 +1,35 @@
+.post-img{
+    height: 404px;
+    overflow: hidden;
+    /* margin-top: 14px; */
+
+}
+.post-img img{
+    width: 100%;
+
+}
+
+.blog-post-content{
+/* background-color: brown; */
+
+}
+
+.blog-post-content p{
+/* background-color: brown; */
+font-size: 20px;
+}
+
+
+.blog-post-content h1{
+    text-align: center;
+}
+
+.row{
+    display: flex;
+    /* flex-direction: column; */
+}
+
+.more-post{
+    flex-direction: column;
+    align-items: center;
+}

@@ -54,10 +54,10 @@
 
 }
 
-.nav-right {
+/* .nav-right {
 
     
-}
+} */
 .content {
   margin-top: 32px;
   height: 395px;
@@ -109,9 +109,24 @@ justify-content: center;
   padding: 18px;;
   background-color: #f9cbe9;
   margin-top: 12px;
+  position: relative;
   
 }
 
+
+.year-box{
+  position:absolute;
+  right: 419px;
+  top:100px;
+  width:234px;
+  height:255px;
+  font-size:18px ;
+ 
+}
+
+.year-box div{
+  margin: 12px 0px;
+}
 
 .home-article{
   margin: 25px;
