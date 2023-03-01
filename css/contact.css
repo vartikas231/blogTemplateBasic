@@ -1,7 +1,7 @@
 .contact-content {
   margin-top: 32px;
-  height: 395px;
-   height: 80vh;
+  /* height: 395px; */
+   height: 100vh;
   /* background-color:#e3af81; */
   display: block;
   padding :9px;
@@ -31,6 +31,3 @@ border-radius:20px ;
 
 }
 
-.contact-form{
-   
-}
